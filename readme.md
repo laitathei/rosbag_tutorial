@@ -11,6 +11,7 @@ sudo apt-get install ubuntu-restricted-extras
 rosbag record desired_topic_name
 ```
 ### Use rosbag2video.py to convert bag file to mp4 files (this py files only allow to convert rgb frame)
+### Regarding to https://github.com/mlaiacker/rosbag2video
 ### Remeber to put the python files and bag files into same directory
 ### type following code
 ```XML
